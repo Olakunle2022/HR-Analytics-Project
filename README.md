@@ -118,7 +118,8 @@ Visualization:
 You can interact with the dashboard here ![](tableau public)
 
 ANALYSIS:
-Image of Workforce Composition ![](tableau public)
+**Image of Workforce Composition Dashboard**
+![](workforce_composition_dashboard.png)
 ### Workforce Composition:
 Findings:
 1. Retention Patterns by Demographics:
