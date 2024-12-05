@@ -62,7 +62,7 @@ iii.	Rating.csv (2 columns 1954 eows) having fields ( emp_id, rating)
 Postgresl was used to join clean and join the datasets using the appropriate primary keys.
 
 ### SQL Process for the Combined Three Tables
-![](hr_joining_tables.pdf)
+[View HR Joining Tables PDF](./githubhr_joining_tables.pdf)
 
 
  ### SQL Process for Cleaning the Org Table
