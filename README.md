@@ -120,8 +120,11 @@ You can interact with the dashboard here ![](tableau public)
 ## ANALYSIS:
 
 **Image of Workforce Composition Dashboard**
+
 ![](workforce_composition_dashboard.png)
+
 ### Workforce Composition:
+
 Findings:
 1. Retention Patterns by Demographics:
 The overall retention rate is 82.14%. Analysts have the highest retention rate (66.93%), and males have the highest retention rate (69.01%) among gender categories.
@@ -130,8 +133,12 @@ Staff aged 65 and above show the highest retention rate compared to other age gr
 Average tenure across the organization is 4.23 years.
 Staff in Florida have the longest length of service, indicating better engagement and stability in this location.
 
-Image of Employee Turnover  ![](tableau public)
+**Image of Employee Turnover**
+
+![](employee_turnover_dashboard.png)
+
 ### Employee Turnover:
+
 Findings:
 1. High Turnover Among Millennials and Analysts:
 Millennials exhibit the highest turnover rate (90.95%), and Analysts have the highest turnover among roles (84.11%).
@@ -139,8 +146,11 @@ Millennials exhibit the highest turnover rate (90.95%), and Analysts have the hi
 Chicago has the highest location-based turnover rate (32.56%), while Florida has the lowest (10.55%). Male staff turnover (69.68%) significantly surpasses female turnover (30.32%).
 
 **Image of Employee Satisfaction and Engagement**  
-![](employee_satisfaction_&_engagement_dashboar)
+
+![](employee_satisfaction_&_engagement_dashboard.png)
+
 ### Employee Satisfaction & Engagement:
+
 Findings:
 1. Role and Location Satisfaction:
 Analysts in Florida report the highest job satisfaction, followed by those in New York. Career satisfaction in Florida, Chicago, and New York is positively correlated with manager effectiveness.
