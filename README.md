@@ -117,7 +117,8 @@ Visualization:
 3. Employee Satisfaction and Engagement
 You can interact with the dashboard here ![](tableau public)
 
-ANALYSIS:
+## ANALYSIS:
+
 **Image of Workforce Composition Dashboard**
 ![](workforce_composition_dashboard.png)
 ### Workforce Composition:
@@ -137,7 +138,8 @@ Millennials exhibit the highest turnover rate (90.95%), and Analysts have the hi
 2. Geographic and Demographic Trends:
 Chicago has the highest location-based turnover rate (32.56%), while Florida has the lowest (10.55%). Male staff turnover (69.68%) significantly surpasses female turnover (30.32%).
 
-Image of Employee Satisfaction and Engagement  ![](tableau public)
+**Image of Employee Satisfaction and Engagement**  
+![](employee_satisfaction_&_engagement_dashboar)
 ### Employee Satisfaction & Engagement:
 Findings:
 1. Role and Location Satisfaction:
