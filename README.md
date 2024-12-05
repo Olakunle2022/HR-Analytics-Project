@@ -63,6 +63,7 @@ Postgresl was used to join clean and join the datasets using the appropriate pri
 
 ### SQL Process for the Combined Three Tables
 _You can view the postgresql code from this link_ [org_joined_sql.sql](org_joined_sql.sql)
+
 ![](hr_joining_tables.pdf)
  
  ### SQL Process for Cleaning the Org Table
