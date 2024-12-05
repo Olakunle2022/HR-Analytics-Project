@@ -65,7 +65,7 @@ Postgresl was used to join clean and join the datasets using the appropriate pri
 ![](org_joined_sql.sql)
  
  ### SQL Process for Cleaning the Org Table
-![](survey.sql)
+![](org_cleaned_sql.sql)
 
  
 
