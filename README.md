@@ -1,5 +1,7 @@
 # HR-Analytics-Project
 
+![](hr_logo.avif)
+
 ## Introduction:
 
 With the background understanding that losing employees frequently influence the morale of the organization and hiring new employees is more expensive than keeping existing ones. Hence, this project focuses on data analysis of human resources. Different data management and analytics skills used to start from data acquisition from multiple HR sources, merging, exploring and deriving new features, building three dashboards to solve business questions to bring an actionable insight from the data to enhance potential retention strategy.
