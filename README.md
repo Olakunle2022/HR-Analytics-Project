@@ -144,10 +144,28 @@ vi.	Additional Technical Skills
 5. Employee Satisfaction and Engagement
    
 ### Explore the Dashboard
+## Explore the Dashboards
 
-Dive into the interactive **HR Tableau Dashboard** to explore key insights on employee satisfaction and engagement.
+Dive into these interactive **HR Tableau Dashboards** to explore key insights into workforce composition, employee turnover, and satisfaction and engagement metrics.
 
-[![View HR Tableau Dashboard](https://img.shields.io/badge/View-Dashboard-blue?style=for-the-badge)](https://public.tableau.com/views/EmployeeSatisfactionandEngagementDashboard4/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+### 1. Workforce Composition Dashboard
+Understand the distribution of employees across departments, levels, and locations.
+
+[![View Workforce Composition Dashboard](https://img.shields.io/badge/View-Dashboard-orange?style=for-the-badge)](https://public.tableau.com/views/WorkforceCompositionDashboard3/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+---
+
+### 2. Employee Turnover Dashboard
+Analyze turnover trends and patterns by department, generation, and time period.
+
+[![View Employee Turnover Dashboard](https://img.shields.io/badge/View-Dashboard-orange?style=for-the-badge)](https://public.tableau.com/views/EmployeeTurnoverDashboard_17315162200460/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+---
+
+### 3. Employee Satisfaction and Engagement Dashboard
+Explore insights into employee satisfaction, engagement levels, and career satisfaction metrics.
+
+[![View Employee Satisfaction and Engagement Dashboard](https://img.shields.io/badge/View-Dashboard-orange?style=for-the-badge)](https://public.tableau.com/views/EmployeeSatisfactionandEngagementDashboard4/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## ANALYSIS:
 
