@@ -70,52 +70,84 @@ Postgresl was used to join clean and join the datasets using the appropriate pri
 
  
 
-FEATURE ENGINEERING:
-Data in each excel sheet was efficiently cleaned in Postgresql and several data aggregations were performed and generated using Tableau in line with the business questions at hand to be answered: These are listed below:
-i.	Tenure	ii. Avg. Tenure	 iii. Turnover Count	iv. Turnover Rate	v. Headcount 	vi. Retention Rate	vii. Age	 viii. Duration of Employee Tenure viii. Age Group
+### Feature Engineering:
 
-SKILLS/CONCEPT DEMOSTRATED:
+Data in each excel sheet was efficiently cleaned in Postgresql and several data aggregations were performed and generated using Tableau in line with the business questions at hand to be answered:
+
+These are listed below:
+i.	Tenure	
+
+ii. Avg. Tenure	
+
+iii. Turnover Count	
+
+iv. Turnover Rate	
+
+v. Headcount 	
+
+vi. Retention Rate	
+
+vii. Age	 
+
+viii. Duration of Employee Tenure
+
+viii. Age Group
+
+### Skills/Cobcept Demostrated:
+
 Here’s a comprehensive breakdown of technical skills displayed in this scenario, categorized by key areas:
+
 i.	SQL & Database Management
-   -Writing complex SQL queries 
-    -Performing data cleaning with SQL 
-    -Implementing table joins 
-    -Creating derived columns and calculated fields in SQL.
-    -Designing and implementing relational database models (primary/foreign keys).
-    -Loading and managing datasets in PostgreSQL.
+- Writing complex SQL queries
+- Performing data cleaning with SQL
+- Implementing table joins
+- Creating derived columns and calculated fields in SQL.
+- Designing and implementing relational database models (primary/foreign keys).
+- Loading and managing datasets in PostgreSQL.
 
 ii.	Data Preparation
-    -Data wrangling for consistency and readiness.
-   -Handling missing data and outliers.
-    -Data normalization and aggregation.
-    -Designing logical data models for analysis.
+- Data wrangling for consistency and readiness.
+- Handling missing data and outliers.
+- Data normalization and aggregation.
+- Designing logical data models for analysis.
+  
 iii. Data Visualization & Analysis
-    -Connecting Tableau to PostgreSQL databases.
-    -Creating calculated fields and hierarchies in Tableau.
-    -Designing dashboards with interactive filters, tooltips, and drill-downs.
-    --Selecting appropriate chart types:
-   - Formatting visualizations for clarity and impact.
-    -Using KPIs to summarize performance metrics.
+- Connecting Tableau to PostgreSQL databases.
+- Creating calculated fields and hierarchies in Tableau.
+- Designing dashboards with interactive filters, tooltips, and drill-downs.
+- Selecting appropriate chart types:
+- Formatting visualizations for clarity and impact.
+- Using KPIs to summarize performance metrics.
 
 iv.	Insight Generation
--Analyzing trends, patterns, and outliers.
- -Identifying actionable insights from visualizations.
-  -Using data to answer business questions and solve problems.
+- Analyzing trends, patterns, and outliers.
+- Identifying actionable insights from visualizations.
+- Using data to answer business questions and solve problems.
+- 
 v. Reporting & Storytelling
--Writing clear, concise, and professional reports.
-  -Summarizing key insights and recommendations.
-   -Structuring findings to align with business objectives.
-    -Presenting insights effectively to stakeholders.
+- Writing clear, concise, and professional reports.
+- Summarizing key insights and recommendations.
+- Structuring findings to align with business objectives.
+- Presenting insights effectively to stakeholders.
 
 vi.	Additional Technical Skills
--Data modeling and schema design.
- -Creating and managing relationships between datasets.
--Proficiency in tools: PostgreSQL and Tableau.
-Visualization:
+- Data modeling and schema design.
+- Creating and managing relationships between datasets.
+- Proficiency in tools: PostgreSQL and Tableau.
+
+### Visualization:
+
 1. Workforce Composition
-2. Employee Turnover
-3. Employee Satisfaction and Engagement
-You can interact with the dashboard here ![](tableau public)
+   
+3. Employee Turnover
+   
+5. Employee Satisfaction and Engagement
+   
+### Explore the Dashboard
+
+Dive into the interactive **HR Tableau Dashboard** to explore key insights on employee satisfaction and engagement.
+
+[![View HR Tableau Dashboard](https://img.shields.io/badge/View-Dashboard-blue?style=for-the-badge)](https://public.tableau.com/views/EmployeeSatisfactionandEngagementDashboard4/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## ANALYSIS:
 
