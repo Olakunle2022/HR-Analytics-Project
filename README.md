@@ -135,15 +135,6 @@ vi.	Additional Technical Skills
 - Creating and managing relationships between datasets.
 - Proficiency in tools: PostgreSQL and Tableau.
 
-### Visualization:
-
-1. Workforce Composition
-   
-3. Employee Turnover
-   
-5. Employee Satisfaction and Engagement
-   
-### Explore the Dashboard
 ## Explore the Dashboards
 
 Dive into these interactive **HR Tableau Dashboards** to explore key insights into workforce composition, employee turnover, and satisfaction and engagement metrics.
