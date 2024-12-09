@@ -1,6 +1,6 @@
 # HR-Analytics-Project
 
-![](hr_logo.avif)
+![](hr_logo2.jpg)
 
 ## Introduction:
 
