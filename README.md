@@ -266,7 +266,9 @@ Analysts in Florida report the highest job satisfaction, followed by those in Ne
 2. Generational Performance Trends:
 Millennials show the highest performance satisfaction across locations, and Analysts in this generation report the highest work satisfaction (74.93%).
 
-### Conclusions
+
+### Conclusions:
+
 **Demographic Gaps in Workforce Composition:**-
 - The workforce shows clear imbalances in age, gender, and departmental representation. For example, certain groups—like younger employees or women in leadership—appear underrepresented. This imbalance can stifle diverse perspectives, limit innovation, and hinder an inclusive work culture.
 
@@ -274,12 +276,13 @@ Millennials show the highest performance satisfaction across locations, and Anal
 - High turnover is not evenly spread but concentrated in specific departments, roles, and demographic groups. Early-career professionals and frontline roles seem particularly vulnerable. Turnover spikes during certain months, hinting that factors like performance reviews, workload pressures, or compensation decisions may play a role.
 
 **Employee Satisfaction Influences Retention:**
-Departments with low satisfaction scores—particularly in areas like work-life balance, career growth, and managerial support—face higher turnover. Younger employees, in particular, express dissatisfaction, signaling that unmet career expectations may be driving them away.
+- Departments with low satisfaction scores—particularly in areas like work-life balance, career growth, and managerial support—face higher turnover. Younger employees, in particular, express dissatisfaction, signaling that unmet career expectations may be driving them away.
 
 **The Role of Managers in Engagement:**
-A consistent pattern emerges: employees with low managerial support are less satisfied and more likely to leave. Managers play a pivotal role in creating a supportive work environment, and their effectiveness directly impacts team morale and productivity.
+- A consistent pattern emerges: employees with low managerial support are less satisfied and more likely to leave. Managers play a pivotal role in creating a supportive work environment, and their effectiveness directly impacts team morale and productivity.
 
-### Recommendations
+
+### Recommendations:
 
 **Build a More Diverse and Inclusive Workforce:**
 - To address workforce imbalances, focus on improving representation across all demographics. Start with targeted hiring strategies for underrepresented groups, and encourage internal career mobility to break barriers. Providing DEI-focused training to leadership can help embed a culture where every employee feels valued and heard.
