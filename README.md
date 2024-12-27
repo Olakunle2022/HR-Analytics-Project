@@ -161,7 +161,7 @@ viii. Duration of Employee Tenure
 
 viii. Age Group
 
-### Skills/Cobcept Demostrated:
+### Skills/Concept Demonstrated:
 
 Here’s a comprehensive breakdown of technical skills displayed in this scenario, categorized by key areas:
 
